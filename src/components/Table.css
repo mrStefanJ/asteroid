@@ -1,0 +1,17 @@
+.ag-theme-balham{
+    position: relative;
+    padding-top: 2%;
+    padding-left: 5%;
+    text-align: center;
+    height: 45%;
+    width: max-content;
+  }
+
+.asteroid-name{
+  text-align: right;
+  padding:0; 
+}
+
+.asteroid-icon{
+  margin-left:8%; 
+}

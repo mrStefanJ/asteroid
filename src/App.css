@@ -1,0 +1,13 @@
+.App{
+  position: relative;
+  padding-top: 5%;
+  padding-left: 5%;
+  
+}
+.App-space{
+  margin-bottom: 2%;
+}
+
+.App-intro{
+  text-align: left;
+}
